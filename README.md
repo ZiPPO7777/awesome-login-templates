@@ -27,7 +27,7 @@ login-template-name/
 ├── index.html
 ├── style.css
 └── script.js (optional)
- </pre>l)
+ </pre>
 
 ---
 
